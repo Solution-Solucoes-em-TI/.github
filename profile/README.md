@@ -1,4 +1,4 @@
-# Solution.
+<img src='https://raw.githubusercontent.com/Solution-Solucoes-em-TI/.github/refs/heads/main/profile/4a26085a-bc7b-4cff-a206-2c24dadc99fa.png' width='250'>
 
 > Sua TI blindada. Sua gestão focada.
 
